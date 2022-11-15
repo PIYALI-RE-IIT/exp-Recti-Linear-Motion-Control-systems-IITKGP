@@ -7,12 +7,14 @@
 <b>Discipline | <b> Electrical Engineering 
 :--|:--|
 <b> Lab | <b> **Control and Instrumentation Lab**
-<b> Experiment|     <b> **Magnetic Levitation control system and Experiment 2**
+<b> Experiment|     <b> **Study of Rectilinear motion control systems and Experiment 1**
 
 
 ### About the Experiment 
 
-The magneticlevitation(MAGLEV)is a non-contacttechnology.it reduces the cost of maintenance as there is no friction and so the energy efficiency is high.This technology is the future in transportation,non-contact actuators,precision engineering,non-contact structures,satellitelaunching,etc.MLS considered for modeling consists of a ferromagnetic ball suspended in a voltage controlled magnetic field. Ferromagnetic core coil acts as actuator, sensor determining the position of ball with respect to core coil,ferromagnetic ball has single degree of freedom. Fig. 1 shows the schematic diagram of the studied MLS which consists of magnetic levitation mechanical unit (electromagnet, sensors, and ferromagnetic ball) with a computer interface card, a signal conditioning unit, connecting cables.
+Rectilinear motion is another name for straight-line motion. This type of motion describes the movement of a particle or a body.The experimental control system in practical laboratory is comprised of the electromechanical plant which consists of the spring/mass mechanism, its actuator and sensors and a subsystem 
+i.e. the executive program which runs on a PC under the DOS or Windows operating system.&nbsp;
+This experiment use (encoder) Counts as the system units of position.
 
 <b>Name of Developer | <b> **Prof. Alok Kanti Deb**
 :--|:--|
