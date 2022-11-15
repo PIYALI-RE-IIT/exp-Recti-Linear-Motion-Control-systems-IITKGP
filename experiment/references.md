@@ -6,7 +6,7 @@
 
 #### Video Lectures
 <p><a href="https://www.youtube.com/watch?v=tJNaPt5aPmg" target="_blank">Click here for NPTEL Video Lecture</a></p>
-<p><a href="https://www.youtube.com/watch?v=Av86LcNuiMQ" target="_blank">Click here for Video Lecture</a></p>
+									<p><a href="https://www.youtube.com/watch?v=Av86LcNuiMQ" target="_blank">Click here for Video Lecture</a></p>
 
 # People
 
